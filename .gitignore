@@ -1,0 +1,31 @@
+﻿.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.xcodeproj
+*.xcworkspace
+*.sln
+
+# Exclude Houdini Plugins
+Plugins/5.6-PCG/
+
+# Exclude Houdini Plugins
+Plugins/5.6-PCG/
+
+# Exclude GemstoneShaders
+Content/GemstoneShaders/
+
+# Exclude HoudiniEngine Temp files
+Content/HoudiniEngine/Temp/
+
+# Exclude packaged builds
+Windows/
