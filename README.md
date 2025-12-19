@@ -16,7 +16,9 @@
 ### C++ Target Practice 
 - Floating targets, C++ version of the original Targets (original target implementation can be tested in **Lvl_Room**, the project is currently defaulted to **Lvl_FirstPerson**)
 - Relevant files: BP_NewTarget, C_BPAdvanced (parent class)
-- Relevant to HW4
+- Relevant to HW4 </br>
+
+![targetvid-ezgif com-optimize](https://github.com/user-attachments/assets/7e80f601-69e3-4ddc-a2ed-f315cb0d7a7e)
 
 ### (WIP) Apples Quest
 - Players are able to shoot apples through the regular left click mechanic
