@@ -11,7 +11,10 @@
 - Simple bowling game implemented
 - Player can put down a snowball (bowling ball) in the direction they were facing via right mouse click
 - I intend to make this more accurate to the Snowball Bowling game at Pondo's Lodge (zelda botw) in the future.
-- Relevant to bowling game assignment
+- Relevant to bowling game assignment </br>
+
+![bowling-ezgif com-optimize](https://github.com/user-attachments/assets/4ee020bd-dd11-4f5c-ac76-68bed43f217e)
+
 
 ### C++ Target Practice 
 - Floating targets, C++ version of the original Targets (original target implementation can be tested in **Lvl_Room**, the project is currently defaulted to **Lvl_FirstPerson**)
