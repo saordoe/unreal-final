@@ -39,7 +39,7 @@
 
 ### Final Criteria / Attempted Points
 #### Branching Dialogue (20 pts)
-- Conversing with the KorokAttack gives dialogue options
+- Conversing with the KorokAttack gives dialogue options (see GIF in NPC Fight section above)
 #### Postprocessing (10 pts) 
 - Screen turns red when health reaches 0 after triggering the NPC Fight via branching dialogue (see GIF in NPC Fight section above)
 #### C++ Usage (10-30+ pts)
@@ -49,7 +49,6 @@
 #### Sounds (10 points)
 - BGM track
 #### NPCs with subtypes (30 points)
-- Korok NPC with only Yahaha! that gives you a korok seed
 - Korok NPC with regular dialogue
 - Korok NPC that has branching dialogue with options for NPC Fight
 #### Inventory with UI (20 points)
